@@ -1,0 +1,41 @@
+{
+  "logo": "/assets/images/logos/cloudbank_logo.svg",
+  "menu": [
+    {
+      "title": "Home",
+      "icon": "/assets/images/icons/home.svg"
+    },
+    {
+      "title": "Send Money",
+      "icon": "/assets/images/icons/send.svg"
+    },
+    {
+      "title": "Investment",
+      "icon": "/assets/images/icons/investment.svg"
+    },
+    {
+      "title": "Loan",
+      "icon": "/assets/images/icons/loan.svg"
+    },
+    {
+      "title": "Cards",
+      "icon": "/assets/images/icons/card.svg"
+    },
+    {
+      "title": "Transactions",
+      "icon": "/assets/images/icons/transaction.svg"
+    },
+    {
+      "title": "Marketplace",
+      "icon": "/assets/images/icons/market.svg"
+    },
+    {
+      "title": "Settings",
+      "icon": "/assets/images/icons/settings.svg"
+    }
+  ],
+  "logout": {
+    "title": "Log out",
+    "icon": "/assets/images/icons/turn-off.svg"
+  }
+}

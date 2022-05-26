@@ -1,0 +1,21 @@
+.home-container {
+  display: flex;
+}
+
+.sidebar {
+  background-color: #fff;
+  height: 100%;
+  width: 16.67%;
+}
+
+.main {
+  background-color: #f3f5fc;
+  height: 100%;
+  width: 83.33%;
+}
+
+@media screen and (max-width: 600px) {
+  .main {
+    width: 100%;
+  }
+}

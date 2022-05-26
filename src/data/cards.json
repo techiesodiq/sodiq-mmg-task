@@ -1,0 +1,52 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "image": "/assets/images/illustrations/One Month.svg",
+      "title": "One Month Loan",
+      "description": "Access funds for personal upkeep for 30 days only"
+    },
+    {
+      "id": "2",
+      "image": "/assets/images/illustrations/Working Capital Overdraft.svg",
+      "title": "Working Capital Overdraft",
+      "description": "Access continuous funds to grow your business stocks and inventory"
+    },
+    {
+      "id": "3",
+      "image": "/assets/images/illustrations/Operation Overdraft.svg",
+      "title": "Operation Overdraft",
+      "description": "Financing for your business operations"
+    },
+    {
+      "id": "4",
+      "image": "/assets/images/illustrations/T&T.svg",
+      "title": "T and T Spread Loan",
+      "description": " Purchase phones, generators and vehicles on a reasonable payment plan from T and T Deals Market"
+    },
+    {
+      "id": "5",
+      "image": "/assets/images/illustrations/Infrastructure.svg",
+      "title": "Infrastructure Loan",
+      "description": "Facility for your business to purchase vehicles, assets, and building upgrades."
+    },
+    {
+      "id": "6",
+      "image": "/assets/images/illustrations/personal.svg",
+      "title": "Personal Loan",
+      "description": "Instant funds for your personal expenses."
+    },
+    {
+      "id": "7",
+      "image": "/assets/images/illustrations/Pawn.svg",
+      "title": "Pawn Loan",
+      "description": "Get cash value on temporary sale of your items within 72hours."
+    },
+    {
+      "id": "8",
+      "image": "/assets/images/illustrations/Frame 33.svg",
+      "title": "FX Line",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+  ]
+}

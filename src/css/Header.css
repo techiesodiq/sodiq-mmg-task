@@ -1,0 +1,21 @@
+.header-container {
+  margin-bottom: 30px;
+}
+
+.mobile-header-menu {
+  padding-left: 0;
+}
+
+.mobile-logo {
+  transform: translateX(-50px, 100px);
+}
+
+.day {
+  color: #008080;
+}
+
+@media screen and (min-width: 600px) {
+  .mobile-header-menu {
+    display: none;
+  }
+}
