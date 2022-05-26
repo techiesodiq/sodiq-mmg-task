@@ -7,9 +7,9 @@ import data from "../data/headers.json";
 const Header = () => {
   return (
     <header className="header-container">
-      <div className="mobile-header-menu">
+      <div>
         <AppBar
-          sx={{ backgroundColor: "#f3f5fc", paddingLeft: "0px" }}
+          sx={{ backgroundColor: "#f3f5fc", padding: "0px" }}
           position="static"
           elevation={0}
         >
@@ -18,11 +18,11 @@ const Header = () => {
               size="large"
               edge="start"
               aria-label="menu"
-              sx={{ mr: 2, color: "#79B0B0" }}
+              sx={{ mr: 16, color: "#79B0B0" }}
             >
               <MenuIcon />
             </IconButton>
-            <img src={data.logo} alt={data.logoTitle} className="mobile-logo" />
+            <img src={data.logo} alt={data.logoTitle} />
           </Toolbar>
         </AppBar>
       </div>
