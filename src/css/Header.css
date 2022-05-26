@@ -2,12 +2,12 @@
   margin-bottom: 30px;
 }
 
-.mobile-header-menu {
-  padding-left: 0;
-}
+/* .mobile-header-menu {
+  padding: 0;
+} */
 
 .mobile-logo {
-  transform: translateX(-50px, 100px);
+  transform: translateX(-50px, -100px);
 }
 
 .day {
