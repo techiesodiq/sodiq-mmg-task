@@ -7,7 +7,7 @@ import data from "../data/headers.json";
 const Header = () => {
   return (
     <header className="header-container">
-      <div>
+      <div className="mobile-header-menu">
         <AppBar
           sx={{ backgroundColor: "#f3f5fc", padding: "0px" }}
           position="static"
